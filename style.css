@@ -1,0 +1,141 @@
+#background {
+    background-color: rgb(221, 221, 221);
+}
+h1{
+    text-align: center;
+}
+
+.post1 { 
+    width: 400px;
+    margin-left: 400px;
+    background-color: white;
+}
+
+.header1 {
+    display: flex;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.title1{
+    float: left;
+    margin-left: 5px;
+}
+
+.date1{
+    margin-left: 250px;
+    float: left;
+}
+
+.img1 {
+    text-align: center;
+}
+
+.descripcion1{
+    
+    height: 70px;
+}
+
+img{
+    width: 100%;
+}
+
+.post2 { 
+    width: 400px;
+    margin-left: 400px;
+    background-color: white;
+    
+}
+
+.header2 {
+    display: flex;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.title2{
+    float: left;
+    margin-left: 5px;
+}
+
+.date2{
+    margin-left: 270px;
+    float: left;
+}
+
+.img2 {
+    text-align: center;
+}
+    
+ .descripcion2{
+        height: 30px;
+}
+
+.post3 { 
+    width: 400px;
+    margin-left: 400px;
+    background-color: white;
+    
+}
+
+.header3 {
+    display: flex;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.title3{
+    float: left;
+    margin-left: 5px;
+}
+.date3{
+    margin-left: 270px;
+    float: left;
+}
+
+.img3 {
+    text-align: center;
+}
+    
+ .descripcion3 {
+        height: 30px;
+}
+
+.post4 { 
+    width: 400px;
+    margin-left: 400px;
+    background-color: white;
+}
+
+.header4 {
+    display: flex;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.title4{
+    float: left;
+    margin-left: 5px;
+    
+}
+
+.date4{
+    margin-left: 140px;
+    float: left;
+}
+
+.img4 {
+    text-align: center;
+}
+    
+ .descripcion4 {    
+        height: 30px;
+}
+
+div[class*='title'] {
+    font-weight: bold;
+}
+
+div[class*='descripcion'] {
+    margin: 10px 20px;
+}
